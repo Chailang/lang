@@ -17,7 +17,31 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    /*
+     
+     git reflog  提交日志
+     
+     */
 }
 
+- (void)test
+{
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
+    NSLog(@"xxxxxx");
 
+    
+}
 @end
